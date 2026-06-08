@@ -1,0 +1,24 @@
+High CPU Troubleshooting
+
+1. Open Task Manager
+2. Identify process consuming CPU
+3. Restart affected service
+4. Verify CPU utilization decreases
+
+------------------------------------------------
+
+Disk Space Issue
+
+1. Check disk usage
+2. Delete temp files
+3. Archive old logs
+4. Expand storage if needed
+
+------------------------------------------------
+
+Windows Server Onboarding
+
+1. Join domain
+2. Install monitoring agent
+3. Configure backup
+4. Verify connectivity
